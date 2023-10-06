@@ -1,0 +1,27 @@
+Hello, I'm Piyush Dahle and this is my 3rd assignment of this course.
+
+Basically I'm design the Biography website of  "Top Four Richest Person in the world". In this project i have to create total 5 pages name as 'index', 'bill', 'jeff', 'elon' and 'bernard' But I'm Extra created the ine more page name as 'About' page where i mentioned about my self. Hence there are total 6 pages in the project.
+
+Extra :- 1. As i mentioned above that i created 'About' page.
+         2. I created the footer in all the pages.
+         3. I used some Transitions effects in images.
+         4. In the header part I'm create an banner image by using canva and add it in my project.
+
+1st page is 'index' page where i'm used bootstrap to create navigation bar using nav pills and dropdown. To create a card formate used bootstrap where I'm given the images and text and one button to check profile of that person. At the end I'm given the footer.
+
+2nd page is 'elon' page where it is a profile dropdown 1st option page. This page provide the biography of Elon Musk and I'm used some transition properties in images of Elon Musk. There are also three sections header, main and footer.
+
+3rd page is 'jeff' page where it is a profile dropdown 2nd option page. This page provide the biography of Jeff Bezos and I'm used some transition properties in images of Jeff Bezos. There are also three sections header, main and footer.
+
+4th page is 'bill' page where it is a profile dropdown 3rd option page. This page provide the biography of Bill Gates and I'm used some transition properties in images of Bill Gates. There are also three sections header, main and footer.
+
+5th page is 'bernard' page where it is a profile dropdown 4th option page. This page provide the biography of Bernard Arnault and I'm used some transition properties in images of Bernard Arnault. There are also three sections header, main and footer.
+
+6th page is 'about' page. This page provide the information about myself and I'm used some transition properties in image of mine. There are also three sections header, main and footer.
+
+This entire project or assignment fully responsive.
+
+
+
+
+         
